@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\bin\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.exe
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\bin\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\bin\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\bin\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.dll
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\bin\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.dll
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\refint\C#101 Ödev 17 Generic Koleksiyonlar ve List.dll
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\C#101 Ödev 17 Generic Koleksiyonlar ve List.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 17 Generic Koleksiyonlar ve List\obj\Debug\net6.0\ref\C#101 Ödev 17 Generic Koleksiyonlar ve List.dll
